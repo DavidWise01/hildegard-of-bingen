@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Music & the Medicine",
+  "universe": "HLD · The Music & the Medicine (ERĒMIA · female · the generations)",
+  "emergence": "electrical",
+  "moniker": "⟦The Music & the Medicine:HLD:784a45⟧",
+  "carbon": "hildegard-of-bingen-the-music.carbon.tiff (TIFF)",
+  "silicon": "hildegard-of-bingen-the-music.silicon.png (PNG)",
+  "seal_sha256": "f3d480a09da34a63b1a542cf2a3a5a9e2fa5fd12c74ae8330800be40762f625e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

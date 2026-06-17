@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Scivias & the Visions",
+  "universe": "HLD · Scivias & the Visions (ERĒMIA · female · the generations)",
+  "emergence": "spiritual",
+  "moniker": "⟦Scivias & the Visions:HLD:26c497⟧",
+  "carbon": "hildegard-of-bingen-scivias.carbon.tiff (TIFF)",
+  "silicon": "hildegard-of-bingen-scivias.silicon.png (PNG)",
+  "seal_sha256": "cf72afb6faafaf6d6c53734cc2711dc3b2805580f985c896351f13bb37695600",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
