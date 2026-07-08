@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 738
+slug  : hildegard-of-bingen
+seal  : 42edeb0552632b06fac64ee5a908b68770eaef35414b135e691a80db3a50dc75
+prev  : 469de950eaf63c2de6d7a7e5ab091025c1c84408e13d38acb09eabd1c457bf41
+link  : 161e709b7eb4531c443da09961fdeccc89d3cc5ae636f3743b22b2704e50f55f
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
